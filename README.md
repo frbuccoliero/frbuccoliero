@@ -22,6 +22,8 @@ Here are some of my repos, grouped for convenience:
   - 🚦[VHDL Demultiplexer](https://github.com/frbuccoliero/RL_2023)
   - 🚗 [C Highway Simulation Game](https://github.com/frbuccoliero/api23)
   - 👾 [Java Distributed Application](https://github.com/frbuccoliero/IS23-AM10) to replicate a known Board Game.
+- 🎛️ Misc
+  - 🤖 Andrej Karpathy's [Micrograd Go porting](https://github.com/frbuccoliero/micrograd_go) 
 
 ### 👽 Extra
 
