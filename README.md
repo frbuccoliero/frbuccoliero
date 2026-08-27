@@ -1,10 +1,6 @@
 ## 🚀 Hi there, I'm Francesco 👋
 
-I'm a **Software Engineer** and **Artificial Intelligence** enthusiast, passionate about developing robust, data-driven, and scalable systems.
-
-I completed my **MSc in Computer Science and Engineering** with a specialization in **Artificial Intelligence** at **Politecnico di Milano** in October 2025.
-
-I have a previous **BSc Degree** from the same university, obtained in 2023, and an internship work experience at **Amazon Web Services** (AWS) during Summer 2022.
+Check out frbuccoliero.it
 
 ---
 
@@ -24,7 +20,3 @@ Here are some of my repos, grouped for convenience:
   - 👾 [Java Distributed Application](https://github.com/frbuccoliero/IS23-AM10) to replicate a known Board Game.
 - 🎛️ Misc
   - 🤖 Andrej Karpathy's [Micrograd Go porting](https://github.com/frbuccoliero/micrograd_go) 
-
-### 👽 Extra
-
-For anything else feel free to contact me via mail or socials :)
